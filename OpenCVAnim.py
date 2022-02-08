@@ -1,4 +1,3 @@
-'''python
 import bpy
 
 class OBJECT_MT_OpenCVPanel(bpy.types.WorkSpaceTool):
@@ -23,4 +22,3 @@ def unregister():
 
 if __name__ == "__main__":
     register()
-'''
